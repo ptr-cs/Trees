@@ -1,4 +1,5 @@
 <img width="3840" height="2160" alt="Trees-preview" src="https://github.com/user-attachments/assets/00ad4f3e-4fb0-448b-af1d-5055aefa1716" />
+
 # Canopy — generative tree sonification
 
 A seeded tree simulation and browser sonification built with Vite, TypeScript, SVG, and the Web Audio API. It supports all 12 chromatic major keys and all 12 chromatic minor keys.
